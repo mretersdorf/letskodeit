@@ -16,12 +16,13 @@ class RegisterCoursesPage(BasePage):
     _search_button = "//form[@id='search']//button[@class='find-course search-course']"
     _course_tile = "//h4[contains(text(),'{0}')]/.." #needs .format() to insert course name title
     _enroll_in_course_button = "//button[@data-uniqid='1595290194536']"
+    _all_courses_link = "//div[@id='navbar-inverse-collapse']/ul//a[@href='/courses']"
     _cc_num = "//input[@name='cardnumber']"
-    _card_number_frame = "__privateStripeFrame5"
+    _card_number_frame = "__privateStripeFrame8155"
     _cc_exp = "//input[@name='exp-date']"
-    _expiry_date_frame = "__privateStripeFrame7"
+    _expiry_date_frame = "__privateStripeFrame8157"
     _cc_cvv= "//input[@name='cvc']"
-    _security_code_frame = "__privateStripeFrame6"
+    _security_code_frame = "__privateStripeFrame8156"
     _country_select = "//select[@name='country-list']"
     _buy_button = "//div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1]"
     _declined_message = "//form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span"
@@ -45,17 +46,20 @@ class RegisterCoursesPage(BasePage):
         self.elementClick(self._enroll_in_course_button, locatorType="xpath")
 
     def enterCardNum(self, num):
-        self.switchToFrame(name=self._card_number_frame)
+        # self.switchToFrame(name=self._card_number_frame)
+        self.switchToFrame(index=0)
         self.sendKeys(num, self._cc_num, locatorType="xpath")
         self.switchToDefaultContent()
 
     def enterCardExp(self, exp):
-        self.switchToFrame(name=self._expiry_date_frame)
+        # self.switchToFrame(name=self._expiry_date_frame)
+        self.switchToFrame(index=1)
         self.sendKeys(exp, self._cc_exp, locatorType="xpath")
         self.switchToDefaultContent()
 
     def enterCardCVV(self, cvv):
-        self.switchToFrame(name=self._security_code_frame)
+        # self.switchToFrame(name=self._security_code_frame)
+        self.switchToFrame(index=2)
         self.sendKeys(cvv, self._cc_cvv, locatorType="xpath")
         self.switchToDefaultContent()
 
@@ -64,6 +68,9 @@ class RegisterCoursesPage(BasePage):
 
     def clickBuyButton(self):
         self.elementClick(self._buy_button, locatorType="xpath")
+
+    def clickAllCourses(self):
+        self.elementClick(self._all_courses_link, locatorType="xpath")
 
     # ------------- Functionality -----------------------------
 
@@ -74,11 +81,13 @@ class RegisterCoursesPage(BasePage):
         self.enterCardCVV(cvv)
         time.sleep(2)
 
-    def enrollCourse(self, course="", num="", exp="", cvv="", country="United States"):
-        self.enterCourseName(course)
+    def selectCourseToEnroll(self, courseName=""):
+        self.enterCourseName(courseName)
         self.clickSearchButton()
         time.sleep(2)
-        self.clickCourseToEnroll(course)
+        self.clickCourseToEnroll(courseName)
+
+    def enrollCourse(self, num="", exp="", cvv="", country="United States"):
         self.clickEnrollButton()
         self.webScroll("down")
         self.enterCreditCardInfo(num, exp, cvv, country)

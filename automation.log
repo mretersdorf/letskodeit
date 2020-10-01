@@ -441,3 +441,545 @@
 08/19/2020 11:36:22 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
 08/19/2020 11:36:22 AM - LoginPage - INFO: Element found with locator: input[value='Login'] and locatorType: css
 08/19/2020 11:36:23 AM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:50:21 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:50:22 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:50:22 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:50:22 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:50:23 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:51:27 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:51:28 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:51:28 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:51:28 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:51:29 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:51:57 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:51:57 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:51:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:51:57 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:51:57 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:51:58 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:51:58 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:51:58 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:51:58 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:51:59 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:52:41 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:52:42 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:52:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:52:42 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:52:44 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:53:52 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:53:52 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:53:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:53:52 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:53:52 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:53:52 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:53:53 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:53:53 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:53:53 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:53:54 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:54:18 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:54:18 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:54:20 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:54:59 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:54:59 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:55:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:55:00 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:55:02 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 03:59:52 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 03:59:53 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 03:59:53 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 03:59:53 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 03:59:55 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 04:00:27 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/07/2020 04:00:28 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/07/2020 04:00:28 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/07/2020 04:00:28 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/07/2020 04:00:29 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/07/2020 04:00:29 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/07/2020 04:00:29 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/07/2020 04:00:29 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/07/2020 04:00:30 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/07/2020 04:00:32 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/07/2020 04:00:33 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/07/2020 04:00:33 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/07/2020 04:00:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/07/2020 04:00:35 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/07/2020 04:00:35 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/07/2020 04:00:38 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/07/2020 04:00:38 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/07/2020 04:00:41 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/07/2020 04:00:41 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/07/2020 04:00:44 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/07/2020 04:00:45 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/07/2020 04:00:47 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/07/2020 04:00:47 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 28
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/07/2020 04:00:47 PM - RegisterCoursesPage - INFO: The text is :: 'Your card has been declined.'
+09/07/2020 04:00:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/07/2020 04:00:47 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/08/2020 02:15:23 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/08/2020 02:15:24 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/08/2020 02:15:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/08/2020 02:15:24 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/08/2020 02:15:26 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/08/2020 02:15:26 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/08/2020 02:15:26 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/08/2020 02:15:26 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/08/2020 02:15:26 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/08/2020 02:15:28 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/08/2020 02:15:29 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/08/2020 02:15:29 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/08/2020 02:15:32 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/08/2020 02:15:32 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/08/2020 02:15:32 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/08/2020 02:15:35 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/08/2020 02:15:35 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/08/2020 02:15:38 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/08/2020 02:15:38 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/08/2020 02:15:41 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/08/2020 02:15:41 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/08/2020 02:15:43 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/08/2020 02:15:43 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/08/2020 02:15:44 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/08/2020 02:15:44 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/08/2020 02:15:44 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/08/2020 02:15:44 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/08/2020 02:15:44 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/08/2020 02:15:44 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 28
+09/08/2020 02:15:44 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/08/2020 02:15:44 PM - RegisterCoursesPage - INFO: The text is :: 'Your card has been declined.'
+09/08/2020 02:15:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/08/2020 02:15:44 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/08/2020 02:25:32 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/08/2020 02:25:33 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/08/2020 02:25:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/08/2020 02:25:33 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/08/2020 02:25:35 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/08/2020 02:25:35 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/08/2020 02:25:35 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/08/2020 02:25:35 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/08/2020 02:25:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/08/2020 02:25:37 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/08/2020 02:25:38 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/08/2020 02:25:38 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/08/2020 02:25:40 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/08/2020 02:25:40 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/08/2020 02:25:40 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/08/2020 02:25:43 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/08/2020 02:25:43 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/08/2020 02:25:46 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/08/2020 02:25:46 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/08/2020 02:25:49 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/08/2020 02:25:49 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/08/2020 02:25:51 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/08/2020 02:25:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/08/2020 02:25:52 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/08/2020 02:25:52 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/08/2020 02:25:52 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/08/2020 02:25:52 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/08/2020 02:25:52 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/08/2020 02:25:52 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 28
+09/08/2020 02:25:52 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/08/2020 02:25:52 PM - RegisterCoursesPage - INFO: The text is :: 'Your card has been declined.'
+09/08/2020 02:25:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/08/2020 02:25:52 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/16/2020 01:27:43 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/16/2020 01:27:43 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/16/2020 01:27:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/16/2020 01:27:44 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/16/2020 01:27:45 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/16/2020 01:27:45 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/16/2020 01:27:45 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/16/2020 01:27:45 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/16/2020 01:27:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/16/2020 01:27:48 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/16/2020 01:27:49 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/16/2020 01:27:49 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/16/2020 01:27:51 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/16/2020 01:27:51 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/16/2020 01:27:52 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/16/2020 01:27:55 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/16/2020 01:27:55 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/16/2020 01:27:58 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/16/2020 01:27:58 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/16/2020 01:28:01 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/16/2020 01:28:01 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/16/2020 01:28:03 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/16/2020 01:28:03 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/16/2020 01:28:04 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/16/2020 01:28:04 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/16/2020 01:28:04 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/16/2020 01:28:04 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/16/2020 01:28:04 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/16/2020 01:28:04 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/16/2020 01:28:04 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/16/2020 01:28:04 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/16/2020 01:28:04 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment failed due to invalid CC number
+09/16/2020 01:28:04 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Michael\PycharmProjects\letskodeit\base\../screenshots/Enrollment failed due to invalid CC number.1600280884234.png
+09/16/2020 01:28:04 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED 
+09/30/2020 03:18:53 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:18:54 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:18:54 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:18:54 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:18:56 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:18:56 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:18:56 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:18:56 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:18:56 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:18:58 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:18:59 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:18:59 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:19:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:19:02 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:19:02 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:21:03 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:21:04 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:21:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:21:04 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:21:06 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:21:06 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:21:06 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:21:06 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:21:06 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:21:08 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:21:09 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:21:09 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:21:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:21:12 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:21:12 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:22:34 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:22:34 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:22:36 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:22:36 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:22:36 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:22:36 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:22:36 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:22:38 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:22:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:22:39 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:22:41 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:22:41 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:22:42 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:26:11 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:26:12 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:26:12 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:26:12 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:26:14 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:26:14 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:26:14 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:26:14 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:26:14 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:26:16 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:26:18 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:26:18 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:26:19 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:26:19 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:26:20 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:30:07 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:30:08 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:30:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:30:08 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:30:10 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:30:10 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:30:10 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:30:10 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:30:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:30:12 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:30:13 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:30:13 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:30:15 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:30:15 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:30:15 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:30:15 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:30:15 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:30:53 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:30:54 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:30:54 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:30:54 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:30:55 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:30:55 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:30:55 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:30:55 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:30:55 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:30:57 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:30:59 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:30:59 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/30/2020 03:31:00 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/30/2020 03:31:02 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/30/2020 03:31:02 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/30/2020 03:31:03 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:31:03 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/30/2020 03:31:03 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/30/2020 03:31:03 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:31:03 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/30/2020 03:31:03 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/30/2020 03:31:03 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/30/2020 03:31:03 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/30/2020 03:31:03 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Enrollment failed due to invalid CC number
+09/30/2020 03:31:03 PM - TestStatus - INFO: Screenshot save to directory: C:\Users\Michael\PycharmProjects\letskodeit\base\../screenshots/Enrollment failed due to invalid CC number.1601497863499.png
+09/30/2020 03:31:03 PM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED 
+09/30/2020 03:32:40 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:32:40 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:32:41 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:32:41 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:32:42 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:32:42 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:32:42 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:32:42 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:32:42 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:32:44 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:32:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:32:46 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:32:47 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:32:47 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/30/2020 03:32:48 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/30/2020 03:32:50 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/30/2020 03:32:50 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/30/2020 03:32:51 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:32:51 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/30/2020 03:32:51 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/30/2020 03:32:51 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:32:51 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/30/2020 03:32:51 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/30/2020 03:32:51 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/30/2020 03:32:51 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/30/2020 03:32:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/30/2020 03:32:51 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/30/2020 03:35:10 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:35:11 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:35:11 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:35:11 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:35:13 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:35:13 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:35:13 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:35:13 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:35:13 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:35:15 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:35:16 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:35:16 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/30/2020 03:35:18 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/30/2020 03:35:20 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/30/2020 03:35:21 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:35:21 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/30/2020 03:35:21 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/30/2020 03:35:21 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/30/2020 03:35:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/30/2020 03:35:21 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/30/2020 03:37:42 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:37:43 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:37:43 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:37:43 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:37:45 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:37:45 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:37:45 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:37:45 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:37:45 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:37:47 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:37:48 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:37:48 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/30/2020 03:37:50 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/30/2020 03:37:52 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/30/2020 03:37:52 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/30/2020 03:37:53 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:37:53 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/30/2020 03:37:53 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/30/2020 03:37:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/30/2020 03:37:53 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/30/2020 03:37:53 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='navbar-inverse-collapse']/ul//a[@href='/courses'] and  locatorType: xpath
+09/30/2020 03:37:54 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@id='navbar-inverse-collapse']/ul//a[@href='/courses'] locatorType: xpath
+09/30/2020 03:43:32 PM - LoginPage - INFO: Element found with locator: .//a[text()='Sign In'] and  locatorType: xpath
+09/30/2020 03:43:32 PM - LoginPage - INFO: Clicked on element with locator: .//a[text()='Sign In'] locatorType: xpath
+09/30/2020 03:43:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Element found with locator: email and  locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Sent keys: test@email.com  on element with locator: email locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Element found with locator: password and  locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Sent keys: abcabc  on element with locator: password locatorType: id
+09/30/2020 03:43:33 PM - LoginPage - INFO: Element found with locator: input[value='Login'] and  locatorType: css
+09/30/2020 03:43:34 PM - LoginPage - INFO: Clicked on element with locator: input[value='Login'] locatorType: css
+09/30/2020 03:43:34 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:43:34 PM - RegisterCoursesPage - INFO: Sent keys: JavaScript for beginners  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:43:34 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:43:34 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:43:36 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'JavaScript for beginners')]/.. and  locatorType: xpath
+09/30/2020 03:43:38 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')]/.. locatorType: xpath
+09/30/2020 03:43:38 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:43:39 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:43:39 PM - RegisterCoursesPage - INFO: Element found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:43:39 PM - RegisterCoursesPage - INFO: Selected value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Sent keys: 5105105105105100  on element with locator: //input[@name='cardnumber'] locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Sent keys: 12/25  on element with locator: //input[@name='exp-date'] locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+09/30/2020 03:43:40 PM - RegisterCoursesPage - INFO: Sent keys: 123  on element with locator: //input[@name='cvc'] locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] and  locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='panel payment-panel']/div/div[1]/div[@class='row']/div[@class='col-xs-12']/button[1] locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Element is displayed with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - DEBUG: In locator condition
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='checkout-form']//div[@class='panel payment-panel']/div//div[@class='card-errors has-error']/ul[@class='list-unstyled']/li[@class='card-no cvc expiry text-danger']/span and  locatorType: xpath
+09/30/2020 03:43:42 PM - RegisterCoursesPage - DEBUG: Before finding text
+09/30/2020 03:43:42 PM - RegisterCoursesPage - DEBUG: After finding element, size is: 82
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Getting text on element :: 
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: The text is :: 'Your card was declined. Your request was in live mode, but used a known test card.'
+09/30/2020 03:43:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESS :: + Enrollment failed due to invalid CC number
+09/30/2020 03:43:42 PM - TestStatus - INFO: test_invalidEnrollment### TEST SUCCESSFUL
+09/30/2020 03:43:42 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@id='navbar-inverse-collapse']/ul//a[@href='/courses'] and  locatorType: xpath
+09/30/2020 03:43:43 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@id='navbar-inverse-collapse']/ul//a[@href='/courses'] locatorType: xpath
+09/30/2020 03:43:43 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//input[@id='search'] and  locatorType: xpath
+09/30/2020 03:43:43 PM - RegisterCoursesPage - INFO: Sent keys: Learn Python 3 from scratch  on element with locator: //form[@id='search']//input[@id='search'] locatorType: xpath
+09/30/2020 03:43:43 PM - RegisterCoursesPage - INFO: Element found with locator: //form[@id='search']//button[@class='find-course search-course'] and  locatorType: xpath
+09/30/2020 03:43:43 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //form[@id='search']//button[@class='find-course search-course'] locatorType: xpath
+09/30/2020 03:43:45 PM - RegisterCoursesPage - INFO: Element found with locator: //h4[contains(text(),'Learn Python 3 from scratch')]/.. and  locatorType: xpath
+09/30/2020 03:43:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'Learn Python 3 from scratch')]/.. locatorType: xpath
+09/30/2020 03:43:49 PM - RegisterCoursesPage - INFO: Element not found with locator: //button[@data-uniqid='1595290194536'] and  locatorType: xpath
+09/30/2020 03:43:49 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //button[@data-uniqid='1595290194536'] locatorType: xpath
+09/30/2020 03:43:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //select[@name='country-list'] and  locatorType: xpath
+09/30/2020 03:43:53 PM - RegisterCoursesPage - INFO: Cannot select value: United States from locator: //select[@name='country-list'] using locatorType: xpath
+09/30/2020 03:43:56 PM - RegisterCoursesPage - INFO: Element not found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+09/30/2020 03:43:56 PM - RegisterCoursesPage - INFO: Cannot send keys: 5105105105105100 on the element with locator: //input[@name='cardnumber'] locatorType: xpath
